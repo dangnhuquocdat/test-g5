@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<log>
+  <record>
+    <date>2023-05-10T07:29:02.015Z</date>
+    <millis>1683703742015</millis>
+    <level>START</level>
+    <message>Start Test Suite: test-suites/New Test Suite</message>
+    <property name="id">test-suites/New Test Suite</property>
+    <property name="name">New Test Suite</property>
+    <property name="description"></property>
+    <property name="tag"></property>
+    <property name="totalTestCases">1</property>
+    <property name="runningSessionId">9bddb86c-99c8-4d66-bbdf-0e5801b93446</property>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:02.112Z</date>
+    <millis>1683703742112</millis>
+    <level>START</level>
+    <message>Start Test Case: test-cases/New test case</message>
+    <property name="id">test-cases/New test case</property>
+    <property name="name">New test case</property>
+    <property name="description"></property>
+    <property name="tag"></property>
+    <property name="testCaseLinkGuid">b880213d-6def-49ca-abf4-fd658b9bd010</property>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.725Z</date>
+    <millis>1683703748725</millis>
+    <level>PASSED</level>
+    <message>test-cases/New test case</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.725Z</date>
+    <millis>1683703748725</millis>
+    <level>END</level>
+    <message>End Test Case: test-cases/New test case</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.726Z</date>
+    <millis>1683703748726</millis>
+    <level>END</level>
+    <message>End Test Suite: test-suites/New Test Suite</message>
+  </record>
+</log>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<log>
+  <record>
+    <date>2023-05-10T07:29:02.112Z</date>
+    <millis>1683703742112</millis>
+    <level>START</level>
+    <message>Start Test Case: test-cases/New test case</message>
+    <property name="id">test-cases/New test case</property>
+    <property name="name">New test case</property>
+    <property name="description"></property>
+    <property name="tag"></property>
+    <property name="testCaseLinkGuid">b880213d-6def-49ca-abf4-fd658b9bd010</property>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:02.116Z</date>
+    <millis>1683703742116</millis>
+    <level>START</level>
+    <message>Start action: openBrowser</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:06.864Z</date>
+    <millis>1683703746864</millis>
+    <level>PASSED</level>
+    <message>Action openBrowser passed</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:06.864Z</date>
+    <millis>1683703746864</millis>
+    <level>END</level>
+    <message>End action</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:06.865Z</date>
+    <millis>1683703746865</millis>
+    <level>START</level>
+    <message>Start action: click</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.607Z</date>
+    <millis>1683703747607</millis>
+    <level>PASSED</level>
+    <message>Action click passed</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.607Z</date>
+    <millis>1683703747607</millis>
+    <level>END</level>
+    <message>End action</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.608Z</date>
+    <millis>1683703747608</millis>
+    <level>START</level>
+    <message>Start action: click</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.701Z</date>
+    <millis>1683703747701</millis>
+    <level>PASSED</level>
+    <message>Action click passed</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.701Z</date>
+    <millis>1683703747701</millis>
+    <level>END</level>
+    <message>End action</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.701Z</date>
+    <millis>1683703747701</millis>
+    <level>START</level>
+    <message>Start action: click</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.790Z</date>
+    <millis>1683703747790</millis>
+    <level>PASSED</level>
+    <message>Action click passed</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.790Z</date>
+    <millis>1683703747790</millis>
+    <level>END</level>
+    <message>End action</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.790Z</date>
+    <millis>1683703747790</millis>
+    <level>START</level>
+    <message>Start action: click</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.858Z</date>
+    <millis>1683703747858</millis>
+    <level>PASSED</level>
+    <message>Action click passed</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.858Z</date>
+    <millis>1683703747858</millis>
+    <level>END</level>
+    <message>End action</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:07.858Z</date>
+    <millis>1683703747858</millis>
+    <level>START</level>
+    <message>Start action: click</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.527Z</date>
+    <millis>1683703748527</millis>
+    <level>PASSED</level>
+    <message>Action click passed</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.527Z</date>
+    <millis>1683703748527</millis>
+    <level>END</level>
+    <message>End action</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.528Z</date>
+    <millis>1683703748528</millis>
+    <level>START</level>
+    <message>Start action: click</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.616Z</date>
+    <millis>1683703748616</millis>
+    <level>PASSED</level>
+    <message>Action click passed</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.616Z</date>
+    <millis>1683703748616</millis>
+    <level>END</level>
+    <message>End action</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.617Z</date>
+    <millis>1683703748617</millis>
+    <level>START</level>
+    <message>Start action: verifyElementVisible</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.624Z</date>
+    <millis>1683703748624</millis>
+    <level>PASSED</level>
+    <message>Action verifyElementVisible passed</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.624Z</date>
+    <millis>1683703748624</millis>
+    <level>END</level>
+    <message>End action</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.725Z</date>
+    <millis>1683703748725</millis>
+    <level>PASSED</level>
+    <message>test-cases/New test case</message>
+  </record>
+  <record>
+    <date>2023-05-10T07:29:08.725Z</date>
+    <millis>1683703748725</millis>
+    <level>END</level>
+    <message>End Test Case: test-cases/New test case</message>
+  </record>
+</log>
